@@ -3,7 +3,7 @@ show Date with SM-Time
 
 This code write by [Mr.nope](https://github.com/mrprogrammer2938)
 
-**Installing**
+*Installing*
 ```
 git clone https://github.com/mrprogrammer2938/SM-Time
 
